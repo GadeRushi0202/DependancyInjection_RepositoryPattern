@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternDemo", "RepositoryPatternDemo\RepositoryPatternDemo.csproj", "{F876D0C8-0579-483D-A3D1-252997915600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F876D0C8-0579-483D-A3D1-252997915600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F876D0C8-0579-483D-A3D1-252997915600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F876D0C8-0579-483D-A3D1-252997915600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F876D0C8-0579-483D-A3D1-252997915600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2880C4F4-60EB-4030-915C-A5769AB78AF8}
+	EndGlobalSection
+EndGlobal
